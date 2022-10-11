@@ -1,4 +1,5 @@
-# React test project - React Movies
+# React movies - test project
 
-The working version of the application can be found in [GitHub Pages](https://andreyslesarchuk.github.io/react-movies/).
+This project [DEMO](https://andreyslesarchuk.github.io/react-movies/) was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
