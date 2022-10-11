@@ -32,7 +32,7 @@ const Search = (props) => {
                     onKeyDown={handleKey}
                 />
                 <button
-                    className='btn search-btn'
+                    className='btn search-btn cyan'
                     onClick={() => searchMovies(search,type)}
                 >
                     Search
